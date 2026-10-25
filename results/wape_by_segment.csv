@@ -1,0 +1,5 @@
+segment,croston,moving_avg_6,naive,sba,seasonal_naive,tsb,xgboost,BEST
+erratic,0.721,0.752,0.924,0.706,0.965,0.724,0.699,xgboost
+intermittent,1.218,1.214,1.272,1.205,1.268,1.177,1.171,xgboost
+lumpy,1.547,1.605,1.739,1.515,1.873,1.576,1.538,sba
+smooth,0.379,0.42,0.527,0.391,0.481,0.399,0.372,xgboost

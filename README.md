@@ -5,7 +5,7 @@ Cores (used parts collected for remanufacturing) arrive irregularly: many months
 Under-forecasting means missing cores (lost production); over-forecasting means excess stock.
 
 ## Data
-Simulated (see `src/data.py`): 300 SKUs x 60 months, four demand patterns. **Not real Stellantis data.**
+Simulated (see `src/data.py`): 300 SKUs x 60 months, four demand patterns. **Not real  entreprise data.**
 
 ## Approach
 1. Segment each SKU with ADI / CV2 (smooth, erratic, intermittent, lumpy), using training period only.
